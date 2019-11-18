@@ -1,10 +1,9 @@
 ---
 title: Community Round-up
-excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem turpis at.
-date: '2019-05-27'
+date: 2019-05-27 00:00:00 Z
+excerpt: Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
+  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat
+  lorem turpis at.
 content_img_path: images/2.jpg
 layout: post
 ---

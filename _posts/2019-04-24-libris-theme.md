@@ -1,10 +1,9 @@
 ---
 title: Introducing The Libris Theme
-excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo. Antealiquet commodo
-  accumsan vis phasellus adipiscing. 
-date: '2019-04-24'
+date: 2019-04-24 00:00:00 Z
+excerpt: 'Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
+  sapien blandit ac amet faucibus aliquet placerat commodo. Antealiquet commodo accumsan
+  vis phasellus adipiscing. '
 thumb_img_path: images/4.jpg
 content_img_path: images/3.jpg
 layout: post

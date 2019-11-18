@@ -1,11 +1,10 @@
 ---
 title: The function of design is letting design function
+date: 2018-01-15 00:00:00 Z
 subtitle: Vestibulum sed arcu non odio euismod lacinia at quis risus
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Laoreet sit amet cursus sit amet
-  dictum sit. Duis ut diam quam nulla porttitor massa id neque.
-date: '2018-01-15'
+excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna aliqua. Laoreet sit amet cursus sit amet dictum
+  sit. Duis ut diam quam nulla porttitor massa id neque.
 content_img_path: images/1.jpg
 layout: post
 ---
